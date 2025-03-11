@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "5a6a",
+      "title": "Smoke Test Post",
+      "body": "This is a smoke test post body",
+      "userId": 1
+    },
+    {
+      "id": "3e24",
+      "title": "New post",
+      "author": "QAvaJS Tester"
+    },
+    {
+      "id": "ca0f",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "c82d",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "6a94",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "4351",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "29a8",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "0a99",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "e98a",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "deab",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "0765",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "3995",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    },
+    {
+      "id": "2018",
+      "title": "Test Post",
+      "body": "This is a test post.",
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
